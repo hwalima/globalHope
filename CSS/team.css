@@ -15,7 +15,7 @@ body {
 }
 
 a {
-	color: #e45245;
+	color: #17d0d5;
 }
 
 a:hover {
@@ -90,7 +90,7 @@ a:hover {
 
 .member-details > div:after {
 	content: '';
-	background-image: linear-gradient(45deg, rgba(228, 82, 69, .8) 50%, transparent 50%);
+	background-image: linear-gradient(45deg, #17d0d5 50%, transparent 50%);
 	position: absolute;
 	top: 0;
 	bottom: 0;

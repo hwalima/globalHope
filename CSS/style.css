@@ -881,7 +881,7 @@ body {
 }
 
 .slider > i {
-    color: #5bbd72;
+    color: #17d0d5;
     position: absolute;
     font-size: 60px;
     margin: 20px;
@@ -966,7 +966,7 @@ body {
 }
 
 .slider > ul > .showli {
-    background-color: #7EC03D;
+    background-color: #17d0d5;
     -moz-animation: boing .5s forwards;
     -o-animation: boing .5s forwards;
     -webkit-animation: boing .5s forwards;
@@ -974,7 +974,7 @@ body {
 }
 
 .slider > ul > li:hover {
-    background-color: #7EC03D;
+    background-color: #17d0d5;
 }
 
 .slider > .show {
